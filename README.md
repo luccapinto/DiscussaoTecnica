@@ -11,3 +11,6 @@ Esse é um exemplo de um [código gist](https://gist.github.com/luccapinto/d14cd
 
 ### Exemplo do Google Colab
 Esse é um exemplo de um [arquivo no Google Colab](https://github.com/luccapinto/DiscussaoTecnica/blob/main/DiscussaoTecnica.ipynb)
+
+### Imagem
+![image](https://github.com/luccapinto/DiscussaoTecnica/assets/78231371/0bb977ef-70ea-4ec0-94f9-dd8cc68ed4a4)
